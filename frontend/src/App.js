@@ -41,7 +41,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Now!
+          aa
         </a>
         <div>
           <button onClick={getInfo}>
